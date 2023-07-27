@@ -1,0 +1,1 @@
+# pokemonApi_request_info
